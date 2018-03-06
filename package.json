@@ -1,0 +1,16 @@
+{
+  "name": "@roysader/package.json",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git + https://github.com/roysader/how-to-npm.git"
+  },
+  "license": "ISC",
+  "description": "",
+  "dependencies": {}
+}
